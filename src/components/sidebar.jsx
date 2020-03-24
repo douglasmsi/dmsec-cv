@@ -10,6 +10,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
               <h1 id="colorlib-logo"><a href="index.html">Douglas Marra</a></h1>
+              <span class="position"><a href="#">Tech Lead </a> at iti Itaú Unibanco</span>
               <span className="email"><i className="icon-mail"></i> douglas@dmsec.com.br</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
@@ -17,6 +18,7 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
+                  <li><a href="#work" data-nav-section="work">Work</a></li>
                   {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
                   </*li><a href="#" data-nav-section="blog">Blog</a></li>*/}
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
