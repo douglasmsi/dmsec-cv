@@ -7,7 +7,7 @@ export default class Work extends Component {
             <section class="colorlib-education" data-section="work">
 				<div class="colorlib-narrow-content">
 					<div class="row">
-						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+						<div class="col-md-6 col-md-offset-4 col-md-pull-4 animate-box" data-animate-effect="fadeInLeft">
 							<span class="heading-meta">work</span>
 							<h2 class="colorlib-heading animate-box">Work</h2>
 						</div>
@@ -83,13 +83,13 @@ export default class Work extends Component {
 									</div>
 
 									<div class="panel panel-default">
-									    <div class="panel-heading" role="tab" id="headingThree">
+									    <div class="panel-heading" role="tab" id="headingFour">
 									        <h4 class="panel-title">
-									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Junior Software Engineer - Itaú Unibanco <span><b>(Jun/2012-Jul/2014)</b></span>
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">Junior Software Engineer - Itaú Unibanco <span><b>(Jun/2012-Jul/2014)</b></span>
 									            </a>
 									        </h4>
 									    </div>
-									    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+									    <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
 									        <div class="panel-body">
 									            <p>Responsibilities: Managing the development, maintenance, and implementation of Integrated Monitoring System (SMI) to property security of banking branch.</p>
 												<p>Collating and analyzing business requirements, writing technical specifications and managing development and release cycles.</p>
@@ -101,6 +101,22 @@ export default class Work extends Component {
 												and saving over R$10 million a year.</p>
 												<p>Implemented solution of monitoring with products IBM Netcool/Omnibus, Netcool/Impact and JavaEE as well as integration with mainframetransactions and webservices.</p>
 												
+											</div>
+									    </div>
+									</div>
+
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingFive">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">Junior Java Developer - CAS Tecnologia <span><b>(Fev/2011-Jun/2012)</b></span>
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+									        <div class="panel-body">
+									            <p>Responsibilities: Provided support for systems used by Light, Elektro, Eletrobras, CEMIG, Coelba and others.</p>
+												<p>Developed, maintained, tested and de-bugged computer programs (Java) for energy metering, water and gas.</p>
+												<p>Analyzed problems, identified suitable solutions and modified programs and technical specifications.</p>
 											</div>
 									    </div>
 									</div>
