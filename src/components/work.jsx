@@ -16,14 +16,31 @@ export default class Work extends Component {
 						<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
 							<div class="fancy-collapse-panel">
 								<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-									<div class="panel panel-default">
-									    <div class="panel-heading" role="tab" id="headingOne">
+								<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingZero">
 									        <h4 class="panel-title">
-									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Tech Lead - iti Itaú Unibanco <span><b>(January/2020-present)</b></span>
+									            <a data-toggle="collapse" data-parent="#accordion" href="#collapseZero" aria-expanded="true" aria-controls="collapseZero">IT Engineer Coordinator - Itaú Unibanco <span><b>(May/2020-present)</b></span>
 									            </a>
 									        </h4>
 									    </div>
-									    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+									    <div id="collapseZero" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingZero">
+									         <div class="panel-body">
+									            										      		
+										      			<p>IT Engineer Coordinator... (<i>It will be update soon</i>) </p>
+															  
+									         </div>
+									    </div>
+									</div>
+
+
+									<div class="panel panel-default">
+									    <div class="panel-heading" role="tab" id="headingOne">
+									        <h4 class="panel-title">
+									            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne">Tech Lead - iti Itaú Unibanco <span><b>(January/2020-May/2020)</b></span>
+									            </a>
+									        </h4>
+									    </div>
+									    <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
 									         <div class="panel-body">
 									            										      		
 										      			<p>Tech lead responsible for electronic funds transfers (EFT or TED (Brazil)) outside the iti Platform (Cash out).

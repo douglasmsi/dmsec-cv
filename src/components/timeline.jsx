@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>MBA in Business Administration at USP/Esalq <span>2018-present</span></h2>
+                        <h2>MBA in Business Administration at USP/Esalq <span>2018-2020</span></h2>
                         <p></p>
                       </div>
                     </div>
