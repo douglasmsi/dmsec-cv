@@ -26,7 +26,9 @@ export default class Work extends Component {
 									    <div id="collapseZero" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingZero">
 									         <div class="panel-body">
 									            										      		
-										      			<p>IT Engineer Coordinator... (<i>It will be update soon</i>) </p>
+										      			<p>Led cross-functional teams with expertise in Java, Cobol, DB2, SQL server, Oracle, AWS platform, Kafka, enterprise security and infrastructure domains.</p>
+														    <p>Teams specialized with Loan Open Banking in Brazil.</p>
+															<p>Closely collaborated with project members to identify and quickly address problems. </p>
 															  
 									         </div>
 									    </div>

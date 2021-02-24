@@ -13,7 +13,18 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>Since 2011 I've been living in São Paulo (Brazil) and working with Technology. Enthusiastic technical professional with Java development, IPFS (interplanetary filesystem), Blockchain, Open Source Projetcts and learn about programming languages.</p>
+                    <p>Since 2011 I've been living in São Paulo (Brazil) and working with Technology. </p>
+                    
+                    <p>
+                    Seasoned IT Engineer Coordinator adept at leading cross-functional teams.
+                    Remarkable relationship building, decision making and communication skills. Known for best-in-class collaboration.
+                    Experienced Software Engineer with over 9 years of experience in Financial Services.
+                    Easily communicates complex technical requirements to non-technical stakeholders.
+                    Excellent leadership record of leading development teams in enterprise-wide development projects.
+                    Enthusiastic technical professional with Java development, IPFS (interplanetary filesystem), Blockchain, Open Source and Open Banking.
+                    Excellent reputation for resolving problems and improving customer satisfaction. 
+                    </p>
+                    
                     <p>
                         <b>Hobbies </b>
                         <li>Watch TV Series</li>
@@ -22,6 +33,8 @@ export default class About extends Component {
                         <li>Study about Technology</li>
                         <li>Drink beer with friends</li>
                     </p>
+
+                    
                     </div>
                 </div>
                 </div>
